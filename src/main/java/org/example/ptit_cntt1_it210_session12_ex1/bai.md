@@ -1,0 +1,1 @@
+spring-boot-starter-web được gọi là Starter vì nó là một gói dependency tổng hợp, giúp lập trình viên không cần cấu hình thủ công các thư viện như Spring MVC, Jackson hay Tomcat. Nó giúp giảm độ phức tạp và hỗ trợ Auto-configuration của Spring Boot.
